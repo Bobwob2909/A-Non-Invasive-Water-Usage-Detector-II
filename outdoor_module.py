@@ -1,7 +1,5 @@
 __author__ = "Akshay Unnikrishnan"
-__copyright__ = "Copyright 2007, The Leak detector  Project"
-__credits__ = ["Rob Knight", "Peter Maxwell", "Gavin Huttley",
-                    "Matthew Wakefield"]
+__copyright__ = "Copyright 2020, A Non-Invasive Water Usage Detector II"
 __license__ = "GPL"
 __version__ = "1.0.0"
 __maintainer__ = "Akshay Unnikrishnan"
