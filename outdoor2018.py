@@ -5,8 +5,8 @@ __credits__ = ["Rob Knight", "Peter Maxwell", "Gavin Huttley",
 __license__ = "GPL"
 __version__ = "1.0.0"
 __maintainer__ = "Akshay Unnikrishnan"
-__email__ = "akshay.unnikrishnan@pisd.edu"
-__status__ = "Proof Of Concept"
+__email__ = "akshay.u2909@gmail.com"
+__status__ = "Prototype"
 
 
 #
